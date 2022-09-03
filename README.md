@@ -8,7 +8,8 @@ ImageSize = 96*96
   
   Use Autoencoder bottleneck layer shape for the generator. 
   
-  ![image](https://user-images.githubusercontent.com/111392592/188254871-c4e5b580-3538-45eb-93ff-8f220e7c1ec8.png)
+  ![](https://user-images.githubusercontent.com/111392592/188254919-c1dd7b91-5fce-48e4-865d-14da91899d06.png = 250x250)
+
 
   
   # Discriminator
