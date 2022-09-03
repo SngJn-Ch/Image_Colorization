@@ -55,6 +55,12 @@ Right: actual image
   
   https://drive.google.com/drive/folders/1tO9RQn7qHs1r6lCYVD00hJDvCZ-Qfh_1?usp=sharing
   
+  
+# Future Improvement
+
+  The image colorization of the images with people can be improved by introducing extra FFHQ dataset.
+  
+  
 # Reference
 
   #Data
