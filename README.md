@@ -2,6 +2,7 @@
 Colorize Black and White image
 ImageSize = 96*96
 
+
 # Layer Explanation
 
   # Generator
@@ -27,10 +28,32 @@ ImageSize = 96*96
   1. MeanSquaredError of real image and fake image - actual_diff
   2. Content loss from output of Resnet50 layer of real image and fake image - content loss
   3. BinaryCrossEntropy result of reak unage abd fake image. - g_loss
+  
     3-1. real image as 1
+    
     3-2. fake image as 2
     
   Formula
   
   10*actual_diff + 0.01*content_loss + 0.001*g_loss
     
+
+# Result
+
+![190](https://user-images.githubusercontent.com/111392592/188255449-183a4c7d-5b7e-4eca-9acd-7ff0ab756453.png)
+
+![180](https://user-images.githubusercontent.com/111392592/188255581-87bd70aa-3853-4b6c-a711-6cc987256742.png)
+
+
+# Reference
+
+  #Data
+  2013 Dataset from Imagenet
+  
+    https://www.image-net.org/
+    
+    
+  Concept of autoencoder and its bottleneck layer shape
+  
+    https://www.tensorflow.org/tutorials/generative/autoencoder
+  
