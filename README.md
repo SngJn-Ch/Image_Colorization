@@ -1,6 +1,6 @@
 # Image_Colorization
-Colorize Black and White image
-ImageSize = 96*96
+  1. Colorize Black and White image
+  2. The image size is 96*96
 
 
 # Layer Explanation
