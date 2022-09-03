@@ -36,7 +36,7 @@
   Formula
   
   10*actual_diff + 0.01*content_loss + 0.001*g_loss
-    
+     
 
 # Result
 
