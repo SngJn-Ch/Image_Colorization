@@ -40,9 +40,15 @@
 
 # Result
 
+left: Gray image input
+middle: Output image
+Right: actual image
+
 ![190](https://user-images.githubusercontent.com/111392592/188255449-183a4c7d-5b7e-4eca-9acd-7ff0ab756453.png)
 
 ![180](https://user-images.githubusercontent.com/111392592/188255581-87bd70aa-3853-4b6c-a711-6cc987256742.png)
+
+![180 (1)](https://user-images.githubusercontent.com/111392592/188256181-781eaea4-2fc2-4422-84d5-d8164ebac4c9.png)
 
 
 # Reference
