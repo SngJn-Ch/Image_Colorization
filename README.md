@@ -9,11 +9,11 @@
   
   Use Autoencoder bottleneck layer shape for the generator. 
   
-  Green block "F64K2S2" is Convolution layer with filter size of 64, kernel size of 2, strides of 2 and follwed by BatchNormalization and LeakyReLU
+  **Green block "F64K2S2" is Convolution layer with filter size of 64, kernel size of 2, strides of 2 and follwed by BatchNormalization and LeakyReLU**
   
- Blue Block is normal Convoluation 2D layer  
+ **Blue Block is normal Convoluation 2D layer  **
  
- Orange block is Dense layer with a filter size on it. Each of the Dense layer with size of 1024 and 1 are followed by LeakyReLU, and sigmoid activation.
+ **Orange block is Dense layer with a filter size on it. Each of the Dense layer with size of 1024 and 1 are followed by LeakyReLU, and sigmoid activation.**
   
   <img src="https://user-images.githubusercontent.com/111392592/188255177-025f8ab1-65c4-4d23-9701-10c3fea43277.png" width = "90">
 
