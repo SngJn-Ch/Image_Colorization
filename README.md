@@ -11,7 +11,7 @@
   
   **Green block "F64K2S2" is Convolution layer with filter size of 64, kernel size of 2, strides of 2 and follwed by BatchNormalization and LeakyReLU**
   
- **Blue Block is normal Convoluation 2D layer  **
+ **Blue Block is normal Convoluation 2D layer**
  
  **Orange block is Dense layer with a filter size on it. Each of the Dense layer with size of 1024 and 1 are followed by LeakyReLU, and sigmoid activation.**
   
@@ -41,8 +41,11 @@
 # Result
 
 left: Gray image input
+
 middle: Output image
+
 Right: actual image
+
 
 ![190](https://user-images.githubusercontent.com/111392592/188255449-183a4c7d-5b7e-4eca-9acd-7ff0ab756453.png)
 
