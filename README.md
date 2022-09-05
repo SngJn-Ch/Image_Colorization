@@ -15,12 +15,12 @@
  
  **Orange block is Dense layer with a filter size on it. Each of the Dense layer with size of 1024 and 1 are followed by LeakyReLU, and sigmoid activation.**
   
-  <img src="https://user-images.githubusercontent.com/111392592/188255177-025f8ab1-65c4-4d23-9701-10c3fea43277.png" width = "90">
+  <img src="https://user-images.githubusercontent.com/111392592/188255177-025f8ab1-65c4-4d23-9701-10c3fea43277.png" width = "200">
 
  
   # Discriminator
   
-  <img src="https://user-images.githubusercontent.com/111392592/188255264-d87851b1-2a25-4940-bbc6-5c466a5b0bd8.png" width = "90">
+  <img src="https://user-images.githubusercontent.com/111392592/188255264-d87851b1-2a25-4940-bbc6-5c466a5b0bd8.png" width = "200">
   
   
  # Loss Function
