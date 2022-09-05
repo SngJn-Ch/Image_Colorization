@@ -15,7 +15,7 @@
  
  **Orange block is Dense layer with a filter size on it. Each of the Dense layer with size of 1024 and 1 are followed by LeakyReLU, and sigmoid activation.**
   
-  <img src="https://user-images.githubusercontent.com/111392592/188504365-ea1a257b-126d-49c5-9859-92f896389f7c.png" width = "200">
+  <img src="https://user-images.githubusercontent.com/111392592/188504365-ea1a257b-126d-49c5-9859-92f896389f7c.png" width = "300" height = "600">
 
   
   
