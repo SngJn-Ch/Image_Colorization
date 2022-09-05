@@ -22,9 +22,9 @@
   
  # Loss Function
  
-  1. MeanSquaredError of real image and fake image -  **actual_diff**
-  2. Content loss from output of Resnet50 layer of real image and fake image - **content loss**
-  3. BinaryCrossEntropy result of reak unage abd fake image. - **g_loss**
+  1. **MeanSquaredError** of real image and fake image -  **actual_diff**
+  2. Content loss from **MeanSquaredError** output of Resnet50 layer of real image and fake image(transfer learning) - **content loss**
+  3. **BinaryCrossEntropy** result of reak unage abd fake image. - **g_loss**
   
     3-1. real image as 1
     
