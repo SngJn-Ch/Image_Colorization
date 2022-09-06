@@ -59,6 +59,7 @@ Right: actual image
 # Future Improvement
 
   1. The image colorization of the images with people can be improved by introducing extra FFHQ dataset.
+  2. Current resolution is 96*96, find out how to colorize high resolution images within given resources(Google Colab Pro)
   
   
 # Reference
