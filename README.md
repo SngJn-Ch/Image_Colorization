@@ -58,7 +58,7 @@ Right: actual image
   
 # Future Improvement
 
-  The image colorization of the images with people can be improved by introducing extra FFHQ dataset.
+  1. The image colorization of the images with people can be improved by introducing extra FFHQ dataset.
   
   
 # Reference
